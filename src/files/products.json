@@ -1,0 +1,1278 @@
+[
+    {
+        "name": "Vino Atilio Avena Malbec Reserva Roble x 750 cc.",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1670,
+        "promoPrice": [
+            6,
+            10020
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino Atilio Avena Cabernet Merlot Rva. Roble x 750 cc",
+        "variety": "Cabernet Merlot",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1670,
+        "promoPrice": [
+            6,
+            10020
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino franco de Atilio Avena x 750 cc.",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 2400,
+        "promoPrice": [
+            6,
+            14400
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino franco de Atilio Avena x 750 cc.",
+        "variety": "Cabernet Sauvignon",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 2401,
+        "promoPrice": [
+            6,
+            14400
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino franco de Atilio Avena x 750 cc.",
+        "variety": "Cabernet Franc",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 2402,
+        "promoPrice": [
+            6,
+            14400
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino franco de Atilio Avena x 750 cc.",
+        "variety": "Trivarieltal.",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 2403,
+        "promoPrice": [
+            6,
+            14400
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino franco de A. Avena Box Degustación 4 Varietales",
+        "presentation": "Caja x 4 botellas x 750 cc c/u",
+        "producer": "Bodega Atilio Avena",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 9480,
+        "promoPrice": [
+            1,
+            9480
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino Quetec Malbec Roble x 750 cc.",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Quetec",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1100,
+        "promoPrice": [
+            6,
+            6060
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vino Quetec Cabernet Roble x 750 cc.",
+        "variety": "Cabernet",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Bodega Quetec",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1100,
+        "promoPrice": [
+            6,
+            6060
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Profugo Especias (Cabernet) x 750 cc",
+        "variety": "Cabernet",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 725,
+        "promoPrice": [
+            6,
+            4350
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Profugo Frutos Rojos (Malbec) x 750 cc",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 725,
+        "promoPrice": [
+            6,
+            4350
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Profugo Chenin Dulce x 750 cc",
+        "variety": "Chenin Dulce",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 795,
+        "promoPrice": [
+            6,
+            4770
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Profugo Mr. Franc. X 750 cc",
+        "variety": "Cabernet Franc",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1010,
+        "promoPrice": [
+            6,
+            6060
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Malbec x 750 cc",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 786,
+        "promoPrice": [
+            6,
+            4716
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Cabernet Sauvignon x 750 cc",
+        "variety": "Cabernet Sauvignon",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 786,
+        "promoPrice": [
+            6,
+            4716
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Chardonnay x 750 cc",
+        "variety": "Chardonnay",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 786,
+        "promoPrice": [
+            6,
+            4716
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Chenin Dulce x 750 cc",
+        "variety": "Chenin Dulce",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 852,
+        "promoPrice": [
+            6,
+            5112
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Reserva Malbec x 750 cc",
+        "variety": "Malbec",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1066,
+        "promoPrice": [
+            6,
+            6396
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Oveja Black Gran Reserva Red x 750",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 3228,
+        "promoPrice": [
+            6,
+            19368
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Sin Palabras Bonarda x 750 cc.",
+        "variety": "Bonarda",
+        "presentation": "Unidad x 750 cc.",
+        "producer": "Casa La Primavera Bodegas y Viñedos",
+        "category": "vinos-y-bebidas",
+        "subcategory": "vino",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur x 1000 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 1000 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 2480,
+        "promoPrice": [
+            1,
+            2480
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur x 500 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 500 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1270,
+        "promoPrice": [
+            1,
+            1270
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Orgánico x 500 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 500 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1600,
+        "promoPrice": [
+            1,
+            1600
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur x 250 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 250 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 750,
+        "promoPrice": [
+            1,
+            750
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Pet x 2000 ml",
+        "variety": "Extra virgen",
+        "presentation": "pet x 2000 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 4140,
+        "promoPrice": [
+            1,
+            4140
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Pet x 5000 ml",
+        "variety": "Extra virgen",
+        "presentation": "pet x 5000 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 11200,
+        "promoPrice": [
+            1,
+            11200
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen. GRAN LAUR. X 750 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 750 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 13200,
+        "promoPrice": [
+            1,
+            13200
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Lata Blend de Terroir x 500 ml",
+        "variety": "Extra virgen",
+        "presentation": "Unidad x 500 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1350,
+        "promoPrice": [
+            1,
+            1350
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Lata Orgánico x 500 ml",
+        "variety": "Extra virgen",
+        "presentation": "Lata x 500 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1540,
+        "promoPrice": [
+            1,
+            1540
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Laur Lata x 1000 ml",
+        "variety": "Extra virgen",
+        "presentation": "Lata x 1000 ml.",
+        "producer": "Laur",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 2570,
+        "promoPrice": [
+            1,
+            2570
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto Contraviento Vidrio x 500 ml",
+        "presentation": "Vidrio x 500 ml.",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 1030,
+        "promoPrice": [
+            1,
+            1030
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto Contraviento Vidrio x 250 ml",
+        "presentation": "Vidrio x 250 ml.",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 630,
+        "promoPrice": [
+            1,
+            630
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto en Pet x 2000 ml",
+        "presentation": "pet x 2000 ml.",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 3040,
+        "promoPrice": [
+            1,
+            3040
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto Contraviento Bag en Box x 2000 ml",
+        "presentation": "Box x 2000 ml.",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 3610,
+        "promoPrice": [
+            1,
+            3610
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto Balsámico Millan x 250 ml",
+        "presentation": "Unidad",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 740,
+        "promoPrice": [
+            1,
+            740
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceto di Módena IGP x 250 ml",
+        "presentation": "Unidad",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceto",
+        "price": 1810,
+        "promoPrice": [
+            1,
+            1810
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Vinagre de Vino Millan x 500 ml",
+        "presentation": "Unidad",
+        "producer": "Laur Contraviento",
+        "category": "aceites-y-acetos",
+        "subcategory": "vinagre",
+        "price": 530,
+        "promoPrice": [
+            1,
+            530
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Quetec) x 250 cc.",
+        "presentation": "Unidad",
+        "producer": "QUETEC",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 840,
+        "promoPrice": [
+            1,
+            840
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Quetec) x 500 cc.",
+        "presentation": "Unidad",
+        "producer": "QUETEC",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1280,
+        "promoPrice": [
+            1,
+            1280
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Atilio Avena) x 500",
+        "presentation": "Unidad",
+        "producer": "ATILIO AVENA",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1280,
+        "promoPrice": [
+            1,
+            1280
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Quetec) x 1000 cc",
+        "presentation": "Unidad",
+        "producer": "QUETEC",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 2340,
+        "promoPrice": [
+            1,
+            2340
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Quetec) x 5000 cc",
+        "presentation": "Unidad",
+        "producer": "QUETEC",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 10470,
+        "promoPrice": [
+            1,
+            10470
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen (Atilio Avena) x 5000 cc",
+        "presentation": "Unidad",
+        "producer": "ATILIO AVENA",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 10470,
+        "promoPrice": [
+            1,
+            10470
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Premium (Quetec) x 500",
+        "presentation": "Unidad",
+        "producer": "QUETEC",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1440,
+        "promoPrice": [
+            1,
+            1440
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceite de Oliva Extra Virgen Premium (Atilio Avena) x 500 cc.",
+        "presentation": "Unidad",
+        "producer": "ATILIO AVENA",
+        "category": "aceites-y-acetos",
+        "subcategory": "aceite",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas negras grupo D (3) x 5 Kg",
+        "presentation": "Bolsa x 5 Kg",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1130,
+        "promoPrice": [
+            1,
+            1130
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de morrón x 350 g",
+        "presentation": "Tarro x 350 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 235,
+        "promoPrice": [
+            1,
+            235
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de Morrón x 3500 g",
+        "presentation": "Tarro x 3500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1360,
+        "promoPrice": [
+            1,
+            1360
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de morrón x 500 g",
+        "presentation": "Tarro x 500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 340,
+        "promoPrice": [
+            1,
+            340
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de morrón x 1000 g",
+        "presentation": "Tarro x 1000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 640,
+        "promoPrice": [
+            1,
+            640
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de Morrón x 2500 g",
+        "presentation": "Tarro x 2500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 960,
+        "promoPrice": [
+            1,
+            960
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas rellenas de morrón x 2000 g",
+        "presentation": "Bolsa x 2000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1010,
+        "promoPrice": [
+            1,
+            1010
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de Morrón x 320 g",
+        "presentation": "Tarro x 320 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 155,
+        "promoPrice": [
+            1,
+            155
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de morrón x 1500 g",
+        "presentation": "Tarro x 1500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 845,
+        "promoPrice": [
+            1,
+            845
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de Morrón x 240 g",
+        "presentation": "Tarro x 240 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 125,
+        "promoPrice": [
+            1,
+            125
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras s/carozo (1) x 5 Kg",
+        "presentation": "Bolsa x 5 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1150,
+        "promoPrice": [
+            1,
+            1150
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes sin carozo (1) x 5 Kg",
+        "presentation": "Bolsa x 5 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1060,
+        "promoPrice": [
+            1,
+            1060
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas verdes rellenas de Morrón x 170 g",
+        "presentation": "Tarro x 170 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 75,
+        "promoPrice": [
+            1,
+            75
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 500 g",
+        "presentation": "Tarro x 500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 350,
+        "promoPrice": [
+            1,
+            350
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 500 g",
+        "presentation": "Tarro x 500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 320,
+        "promoPrice": [
+            1,
+            320
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 1000 g",
+        "presentation": "Tarro x 1000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 560,
+        "promoPrice": [
+            1,
+            560
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 1000 g",
+        "presentation": "Tarro x 1000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 510,
+        "promoPrice": [
+            1,
+            510
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 220 g",
+        "presentation": "Tarro x 220 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 155,
+        "promoPrice": [
+            1,
+            155
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 220 g",
+        "presentation": "Tarro x 220 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 130,
+        "promoPrice": [
+            1,
+            130
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 450 g",
+        "presentation": "Tarro x 450 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 280,
+        "promoPrice": [
+            1,
+            280
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 450 g",
+        "presentation": "Tarro x 450 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 250,
+        "promoPrice": [
+            1,
+            250
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 850 g",
+        "presentation": "Tarro x 850 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 480,
+        "promoPrice": [
+            1,
+            480
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 850 g",
+        "presentation": "Tarro x 850 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 450,
+        "promoPrice": [
+            1,
+            450
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 2000 g",
+        "presentation": "Tarro x 2000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 2000 g",
+        "presentation": "Tarro x 2000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 875,
+        "promoPrice": [
+            1,
+            875
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas negras seleccionadas (4) x 5 Kg",
+        "presentation": "Bolsa x 5 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1800,
+        "promoPrice": [
+            1,
+            1800
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas rellenas de Morrón x 500 g",
+        "presentation": "Bolsa x 500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 1 Kg",
+        "presentation": "Bolsa x 1 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 5 Kg",
+        "presentation": "Bolsa x 5 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Rellenas de Morrón x 1 Kg",
+        "presentation": "Bolsa x 1 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Rellenas de Morrón x 5 Kg",
+        "presentation": "Bolsa x 5 Kg.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 350 g",
+        "presentation": "Tarro x 350 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 250,
+        "promoPrice": [
+            1,
+            250
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 500 g",
+        "presentation": "Tarro x 500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 340,
+        "promoPrice": [
+            1,
+            340
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 1000 g",
+        "presentation": "Tarro x 1000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 640,
+        "promoPrice": [
+            1,
+            640
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 2500 g",
+        "presentation": "Tarro x 2500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 2500 g",
+        "presentation": "Tarro x 2500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 960,
+        "promoPrice": [
+            1,
+            960
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras x 3500 g",
+        "presentation": "Tarro x 3500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes x 3500 g",
+        "presentation": "Tarro x 3500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1360,
+        "promoPrice": [
+            1,
+            1360
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Negras Rellenas de Morrón x 2000 g",
+        "presentation": "Bolsa x 2000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 320 g",
+        "presentation": "Tarro x 320 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 155,
+        "promoPrice": [
+            1,
+            155
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 1500 g",
+        "presentation": "Tarro x 1500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 845,
+        "promoPrice": [
+            1,
+            845
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 240 g",
+        "presentation": "Tarro x 240 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 125,
+        "promoPrice": [
+            1,
+            125
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Morrón x 170 g",
+        "presentation": "Tarro x 170 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 75,
+        "promoPrice": [
+            1,
+            75
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 220 g",
+        "presentation": "Tarro x 220 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 130,
+        "promoPrice": [
+            1,
+            130
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 450 g",
+        "presentation": "Tarro x 450 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 250,
+        "promoPrice": [
+            1,
+            250
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 850 g",
+        "presentation": "Tarro x 850 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 450,
+        "promoPrice": [
+            1,
+            450
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 2000 g",
+        "presentation": "Tarro x 2000 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 1000,
+        "promoPrice": [
+            1,
+            0
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 320 g",
+        "presentation": "Tarro x 320 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 155,
+        "promoPrice": [
+            1,
+            155
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 1500 g",
+        "presentation": "Tarro x 1500 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 845,
+        "promoPrice": [
+            1,
+            845
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 240 g",
+        "presentation": "Tarro x 240 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 125,
+        "promoPrice": [
+            1,
+            125
+        ],
+        "Stock": 0
+    },
+    {
+        "name": "Aceitunas Verdes Rellenas de Roquefort x 170 g",
+        "presentation": "Tarro x 170 g.",
+        "producer": "Los Menhires",
+        "category": "aceitunas-y-encurtidos",
+        "subcategory": "aceitunas",
+        "price": 75,
+        "promoPrice": [
+            1,
+            75
+        ],
+        "Stock": 0
+    }
+]
