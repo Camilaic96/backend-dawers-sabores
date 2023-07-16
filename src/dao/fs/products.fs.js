@@ -5,7 +5,7 @@ class ProductManager {
 		this.path = path;
 	}
 
-	async getProducts() {
+	async find() {
 		try {
 			if (fs.existsSync(this.path)) {
 				const data = await fs.promises.readFile(this.path, 'utf-8');
@@ -105,4 +105,5 @@ class ProductManager {
 	}
 }
 
-module.exports = ProductManager;
+const Products = new ProductManager('./src/files/products.json');
+module.exports = Products;
