@@ -20,12 +20,12 @@ class ProductsMongoDAO {
 		}
 	}
 
-	async insertMany(newProducts) {
+	async findById(id) {
 		try {
-			const products = await Product.insertMany(newProducts);
-			return products;
+			const product = await Product.findById(id);
+			return product;
 		} catch (error) {
-			return error;
+			throw error;
 		}
 	}
 
@@ -47,10 +47,30 @@ class ProductsMongoDAO {
 		}
 	}
 
+	async findOneAndUpdate(param, newProduct) {
+		try {
+			const product = await Product.findOneAndUpdate(param, newProduct, {
+				new: true,
+			});
+			return product;
+		} catch (error) {
+			throw error;
+		}
+	}
+
 	async deleteOne(param) {
 		try {
 			const product = await Product.deleteOne(param);
 			return product;
+		} catch (error) {
+			return error;
+		}
+	}
+
+	async insertMany(newProducts) {
+		try {
+			const products = await Product.insertMany(newProducts);
+			return products;
 		} catch (error) {
 			return error;
 		}

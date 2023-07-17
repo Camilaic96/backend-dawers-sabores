@@ -28,25 +28,25 @@ class ProductsRepository {
 		}
 	}
 
-	async create(newUserInfo) {
+	async create(newProductInfo) {
 		try {
-			return await this.dao.create(newUserInfo);
+			return await this.dao.create(newProductInfo);
 		} catch (error) {
 			throw error;
 		}
 	}
 
-	async updateOne(data, newData) {
+	async updateOne(param, newProduct) {
 		try {
-			return await this.dao.updateOne(data, newData);
+			return await this.dao.updateOne(param, newProduct);
 		} catch (error) {
 			throw error;
 		}
 	}
 
-	async findOneAndUpdate(data, newData) {
+	async findOneAndUpdate(param, newProduct) {
 		try {
-			return await this.dao.findOneAndUpdate(data, newData, { new: true });
+			return await this.dao.findOneAndUpdate(param, newProduct);
 		} catch (error) {
 			throw error;
 		}
@@ -55,6 +55,14 @@ class ProductsRepository {
 	async deleteOne(param) {
 		try {
 			return await this.dao.deleteOne(param);
+		} catch (error) {
+			throw error;
+		}
+	}
+
+	async insertMany(newProducts) {
+		try {
+			return await this.dao.insertMany(newProducts);
 		} catch (error) {
 			throw error;
 		}
