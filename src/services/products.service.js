@@ -1,5 +1,5 @@
 /* eslint-disable no-useless-catch */
-const productsRepository = require('../repositories');
+const { productsRepository } = require('../repositories');
 
 const FilesDao = require('../dao/fs/files.fs');
 const FilesManager = new FilesDao('products.json');
