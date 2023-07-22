@@ -3,7 +3,7 @@ const cartsService = require('../services/carts.service');
 
 class CartRouter extends Route {
 	init() {
-		this.get('/', async (req, res) => {
+		this.get('/', ['ADMIN'], async (req, res) => {
 			try {
 				const carts = await cartsService.find();
 				res.sendSuccess(carts);
@@ -12,7 +12,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.get('/:cid', async (req, res) => {
+		this.get('/:cid', ['USER'], async (req, res) => {
 			try {
 				const cartById = await cartsService.findById(req.params);
 				res.sendSuccess(cartById);
@@ -21,7 +21,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.post('/', async (req, res) => {
+		this.post('/', ['USER'], async (req, res) => {
 			try {
 				const carts = await cartsService.create();
 				res.sendSuccess(carts);
@@ -30,7 +30,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.post('/:cid/products/:pid', async (req, res) => {
+		this.post('/:cid/products/:pid', ['USER'], async (req, res) => {
 			try {
 				const cart = await cartsService.createProductInCart(
 					req.params,
@@ -42,7 +42,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.put('/:cid/products/:pid', async (req, res) => {
+		this.put('/:cid/products/:pid', ['USER'], async (req, res) => {
 			try {
 				await cartsService.updateQuantity(req.params, req.body);
 				res.sendSuccess('Quantity updated successfully');
@@ -51,7 +51,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.delete('/:cid/products/:pid', async (req, res) => {
+		this.delete('/:cid/products/:pid', ['USER'], async (req, res) => {
 			try {
 				await cartsService.deleteOneProductOfCart(req.params);
 				res.sendSuccess('Product successfully removed from the cart.');
@@ -60,7 +60,7 @@ class CartRouter extends Route {
 			}
 		});
 
-		this.delete('/:cid', async (req, res) => {
+		this.delete('/:cid', ['ADMIN'], async (req, res) => {
 			try {
 				await cartsService.deleteOne(req.params);
 				res.sendSuccess('Cart deleted successfully');
@@ -70,7 +70,7 @@ class CartRouter extends Route {
 		});
 
 		// Delete all carts db
-		this.delete('/', async (req, res) => {
+		this.delete('/', ['ADMIN'], async (req, res) => {
 			await cartsService.deleteMany();
 			res.json({ message: 'All carts deleted' });
 		});

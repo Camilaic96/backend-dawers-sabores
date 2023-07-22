@@ -12,41 +12,46 @@ class Route {
 
 	init() {}
 
-	get(path, ...callbacks) {
+	get(path, policies, ...callbacks) {
 		this.router.get(
 			path,
+			this.handlePolicies(policies),
 			this.generateCustomResponses,
 			this.applyCallbacks(callbacks),
 		);
 	}
 
-	post(path, ...callbacks) {
+	post(path, policies, ...callbacks) {
 		this.router.post(
 			path,
+			this.handlePolicies(policies),
 			this.generateCustomResponses,
 			this.applyCallbacks(callbacks),
 		);
 	}
 
-	put(path, ...callbacks) {
+	put(path, policies, ...callbacks) {
 		this.router.put(
 			path,
+			this.handlePolicies(policies),
 			this.generateCustomResponses,
 			this.applyCallbacks(callbacks),
 		);
 	}
 
-	patch(path, ...callbacks) {
+	patch(path, policies, ...callbacks) {
 		this.router.patch(
 			path,
+			this.handlePolicies(policies),
 			this.generateCustomResponses,
 			this.applyCallbacks(callbacks),
 		);
 	}
 
-	delete(path, ...callbacks) {
+	delete(path, policies, ...callbacks) {
 		this.router.delete(
 			path,
+			this.handlePolicies(policies),
 			this.generateCustomResponses,
 			this.applyCallbacks(callbacks),
 		);
@@ -69,6 +74,29 @@ class Route {
 		res.sendServerError = error => res.send({ status: 500, error });
 		res.sendUserError = error => res.send({ status: 400, error });
 		next();
+	};
+
+	handlePolicies = policies => {
+		return async (req, res, next) => {
+			const user = req.session.user;
+			if (policies[0] === 'PUBLIC') {
+				return next();
+			}
+
+			if (!user) {
+				return res.status(401).send('Something went wrong during validation');
+			}
+
+			if (!policies.includes(user.role)) {
+				return res
+					.status(403)
+					.send(
+						'Forbidden. You do not have sufficient permissions to access the path',
+					);
+			}
+
+			next();
+		};
 	};
 }
 

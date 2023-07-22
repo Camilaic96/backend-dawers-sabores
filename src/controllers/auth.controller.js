@@ -7,7 +7,7 @@ class AuthRouter extends Route {
 	init() {
 		this.post(
 			'/',
-			passport.authenticate('login', {
+			passport.authenticate('login', ['PUBLIC'], {
 				failureRedirect: '/api/auth/failLogin',
 			}),
 			async (req, res) => {
@@ -22,12 +22,12 @@ class AuthRouter extends Route {
 			},
 		);
 
-		this.get('/failLogin', (req, res) => {
+		this.get('/failLogin', ['PUBLIC'], (req, res) => {
 			req.logger.error('Login failed');
 			res.sendServerError('Login failed');
 		});
 
-		this.get('/logout', async (req, res) => {
+		this.get('/logout', ['USER', 'ADMIN'], async (req, res) => {
 			await usersService.updateLastConnectionLogin(req.session.user);
 			req.session.destroy(error => {
 				if (error) return res.json({ error });

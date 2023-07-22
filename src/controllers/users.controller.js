@@ -6,6 +6,7 @@ class UserRouter extends Route {
 	init() {
 		this.post(
 			'/',
+			['PUBLIC'],
 			passport.authenticate('register', {
 				failureRedirect: '/api/users/failRegister',
 			}),
@@ -22,7 +23,7 @@ class UserRouter extends Route {
 			},
 		);
 
-		this.get('/failRegister', (req, res) => {
+		this.get('/failRegister', ['PUBLIC'], (req, res) => {
 			console.log('Registration failed');
 			res.sendServerError('Registration failed');
 		});
