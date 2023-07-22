@@ -6,7 +6,6 @@ switch (PERSISTENCE) {
 		module.exports = {
 			ProductDao: require('./fs/products.fs'),
 		};
-		module.exports = require('./fs/products.fs');
 		break;
 
 	case 'mongo':
@@ -14,6 +13,7 @@ switch (PERSISTENCE) {
 		module.exports = {
 			ProductDao: require('./mongo/products.mongo'),
 			CartDao: require('./mongo/carts.mongo'),
+			UserDao: require('./mongo/users.mongo'),
 		};
 		break;
 }
